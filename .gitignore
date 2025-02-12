@@ -1,0 +1,7 @@
+/src/terraform/terraform.tfstate
+/src/terraform/terraform.tfstate.backup
+/src/anonymisation_realtime.iml
+/src/terraform/.terraform/
+/src/terraform/builds/
+/src/.idea/
+/.idea/
