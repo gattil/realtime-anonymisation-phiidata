@@ -10,6 +10,7 @@ PHI data are redacted and the data is delivered in a Data Lake for further proce
 
 # Workflow description
 
+
 1. Patients enrolled in the study carry continuous monitors for glucose and insulin concentration in the blood stream, location, and body temperature
 2. General physicians routinely evaluate patients conditions. Annotations are recorded on patients’ files
 3. Data is ingested, PII and PHI are identified and redacted
